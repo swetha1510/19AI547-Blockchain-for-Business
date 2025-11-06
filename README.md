@@ -116,9 +116,8 @@ Uses Ethereum's built-in cryptographic functions.
 
 Inspired by Web3 login solutions like MetaMask authentication.
 
-# Output:
-
-<img width="1912" height="963" alt="Screenshot 2025-11-06 085752" src="https://github.com/user-attachments/assets/7f14163c-3ec4-4ef8-a6b2-7e23f811dbb0" />
 
 
 # RESULT: 
+
+<img width="1912" height="963" alt="Screenshot 2025-11-06 085752" src="https://github.com/user-attachments/assets/7f14163c-3ec4-4ef8-a6b2-7e23f811dbb0" />
